@@ -1,12 +1,12 @@
 <div id="header" align="center">
-  <h2> Hi 👋 I'm Omkesh B. Kendre.</h2>
+  <h1> Hi 👋 I'm Omkesh B. Kendre.</h1>
   <div id="badges">
     <a href="https://www.linkedin.com/in/omkeshk/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
   </div>
 </div>
-<h1 align="center">Hi 👋, I'm Omkesh B. Kendre</h1>
+
 <h3 align="center">A zealous frontend sorcerer conjuring pixel-perfect magic from the heart of India.</h3>
 
 - 💬 Ask me about **JavaScript, React, Angular, and Vue**
