@@ -1,4 +1,5 @@
 <div id="header" align="center">
+ <img src="./images/bg-anim.gif"  alt="LinkedIn Badge"/>
   <h1> Hi 👋 I'm Omkesh B. Kendre.</h1>
   <div id="badges">
     <a href="https://www.linkedin.com/in/omkeshk/">
